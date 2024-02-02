@@ -1,0 +1,73 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: Current Population Structure and Pathogenicity Patterns of Ascochyta rabiei in Australia
+subtitle: ''
+summary: ''
+authors:
+- admin
+- Prabhakaran Thanjavur Sambasivam
+- Jenny Davidson
+- Lina M. Farfan-Caceres
+- Robert C. Lee
+- Kristy Hobson
+- Kevin Moore
+- Rebecca Ford
+tags: []
+categories: []
+date: '2021-07-20'
+lastmod: 2024-01-08T10:46:25+10:00
+featured: true
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2024-01-08T00:46:23.971658Z'
+publication_types:
+- '2'
+abstract: Ascochyta blight disease, caused by the necrotrophic fungus Ascochyta rabiei,
+  is a major biotic constraint to chickpea production in Australia and worldwide.
+  Detailed knowledge of the structure of the pathogen population and its potential
+  to adapt to our farming practices is key to informing optimal management of the
+  disease. This includes understanding the molecular diversity among isolates and
+  the frequency and distribution of the isolates that have adapted to overcome host
+  resistance across agroecologically distinct regions. Thanks to continuous monitoring
+  efforts over the past 6,years, a comprehensive collection of A. rabiei isolates
+  was collated from the major Australian chickpea production regions. To determine
+  the molecular structure of the entire population, representative isolates from each
+  collection year and growing region have been genetically characterized using a DArTseq
+  genotyping-by-sequencing approach. The genotyped isolates were further phenotyped
+  to determine their pathogenicity levels against a differential set of chickpea cultivars
+  and genotype-phenotype associations were inferred. Overall, the Australian A. rabiei
+  population displayed a far lower genetic diversity (average Nei’s gene diversity
+  of 0.047) than detected in other populations worldwide. This may be explained by
+  the presence of a single mating-type in Australia, MAT1-2, limiting its reproduction
+  to a clonal mode. Despite the low detected molecular diversity, clonal selection
+  appears to have given rise to a subset of adapted isolates that are highly pathogenic
+  on commonly employed resistance sources, and that are occurring at an increasing
+  frequency. Among these, a cluster of genetically similar isolates was identified,
+  with a higher proportion of highly aggressive isolates than in the general population.
+  The discovery of distinct genetic clusters associated with high and low isolate
+  pathogenicity forms the foundation for the development of a molecular pathotyping
+  tool for the Australian A. rabiei population. Application of such a tool, along
+  with continuous monitoring of the genetic structure of the population will provide
+  crucial information for the screening of breeding material and integrated disease
+  management packages.,
+publication: '*Microbiology Society,*'
+doi: 10.1099/mgen.0.000627
+links:
+- name: URL
+  url: https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000627
+---

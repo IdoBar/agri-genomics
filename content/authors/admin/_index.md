@@ -1,90 +1,101 @@
 ---
 # Display name
-title: 吳健雄
+title: Ido Bar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ag-Genomics
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ido
+last_name: Bar
 
-# Status emoji
+# Status emoji (try :technologist: or :scientist:)
 status:
-  icon: ☕️
+  icon: 🤹‍♂️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow in Agriculture Genomics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Griffith University
+    url: https://www.griffith.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  My research applies molecular, genomic and data analysis tools to develop knowledge and applied solutions to overcome production bottlenecks in the agriculture and aquaculture industries to ensure sustainable food production and future food security.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genomics and Bioinformatics 
+  - Crop breeding and genetics 🧬
+  - Plant pathology 🪴🧫
+  - Aquaculture 🦪
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Molecular Biology and Genomics
+      institution: University of the Sunshine COast
+      year: 2016
+    - course: MSc Agri in Animal Sciences
+      institution: Hebrew University of Jerusalem
+      year: 2011
+    - course: BSc in Marine Biology and Biotechnology
+      institution: Ben Gurion University of the Negev
+      year: 2007
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Professional
     items:
-      - name: Python
-        description: ''
+      - name: Molecular Biology
+        description: 'Nucleic acid purification, amplification and quantification'
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
+        icon: 🧬
+        icon_pack: emoji
+      - name: Bioinformatics Analyses
+        description: 'Experienced in developing and running complex NGS/HTS data analysis pipelines'
+        percent: 80
+        icon: laptop-code
+        icon_pack: fas
+      - name: Data Analysis and Visualisation
+        description: 'Highly proficeint in using R'
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: Programming
+        description: 'R, Python, Bash scripting and Git'
         percent: 40
-        icon: database
+        icon: hashtag
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Kayak fishing
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: 🚣‍♂️
+        icon_pack: emoji
+      - name: Camping
+        description: ''
+        percent: 100
+        icon: ⛺
+        icon_pack: emoji
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: 🌮
+        icon_pack: emoji
+      - name: Freediving
+        description: ''
+        percent: 60
+        icon: 🤿
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,29 +107,34 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DrIdoBar
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://https//experts.griffith.edu.au/8327-ido-bar
+    label: Griffith Experts profile
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=RgBUWsgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/IdoBar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/IdoBar
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Ido_Bar_CV_updated.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Research Fellow at the Centre for Planetary Health and Food Security at Griffith University. My research interests include crop and pathogen genomics and genetics, pathogen diagnostics and genomics of aquaculture and marine organisms. I lead the Sustainable Food Production group, engaging with diverse stakeholder groups, including industry, government and research
+collaborators to deliver impactful real-life research outputs. I am passionate about sharing my knowledge and expertise and promoting open science practices to educate the future generation of molecular agricultural scientists.
 {style="text-align: justify;"}

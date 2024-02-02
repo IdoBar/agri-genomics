@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-08
 type: landing
 
 sections:
@@ -62,27 +62,48 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Senior Research Fellow
+          company: Griffith University
+          company_url: 'www.griffith.edu.au'
+          company_logo: Griffith-RGB
+          location: Brisbane, QLD Australia
+          date_start: '2024-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Lead industry-driven molecular and genomic research on crops and their pathogens, including molecular host-pathogen interactions, identification of effector and avr genes, population genomics, development of molecular diagnostics methods, trait-gene association mapping through GWAS and gene expression analyses.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Fellow
+          company: Griffith University
+          company_url: 'www.griffith.edu.au'
+          company_logo: Griffith-RGB
+          location: Brisbane, QLD Australia
+          date_start: '2023-12-31'
+          date_end: '2016-03-21'
+          description: Developed bioinformatics pipelines for high-throughput genomics data processing, analysis and reporting for a range of species (agriculture crops, fungal pathogens, ”ancient” dingo and human, crustacean, algae and more).
+
+        - title: Lecturer (level B)
+          company: Griffith University
+          company_url: 'www.griffith.edu.au'
+          company_logo: Griffith-RGB
+          location: Brisbane, Queensland, Australia
+          date_start: '2019-03-01'
+          date_end: '2021-06-30'
+          description: Developed teaching material and taught Molecular Biology, Bioinformatics and Scientific Data Analysis.
+
+        - title: Bioinformatician
+          company: University of te Sunshine Coast
+          company_url: 'https://www.usc.edu.au/'
+          company_logo: UniSC_Int
+          location: Sippy Downs, Queensland, Australia
+          date_start: '2019-03-01'
+          date_end: '2021-06-30'
+          description: Provide bioinformatics-based solutions to uncover the molecular and genetic mechanisms of productivity traits and population structure in a range of commercial aquaculture species.
+          # description: |2-
+              # Responsibilities include:
+
+              # * Analysing
+              # * Modelling
+              # * Deploying
+          
     design:
       columns: '2'
   - block: accomplishments
@@ -98,33 +119,60 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          icon: aim-logo
+          organization: Australian Institute of Management
+          organization_url: https://www.aim.com.au
+          title: New Leader course
+          url: 'https://www.aim.com.au/leadership-strategy/courses/new-leader'
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2018-01-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          icon: software-carpentry
+          organization: Software Carpentry
+          organization_url: https://carpentries.github.io/instructor-training/
+          title: Software Carpentry Instructor Training
+          url: https://weaverbel.github.io/2018-04-09-qcif-ttt/
+        - certificate_url: 
+          date_end: ''
+          date_start: '2016-07-01'
+          description: ''
+          icon: qcif_logo
+          organization: QCIF
+          organization_url: https://www.qcif.edu.au/training/course-catalogue/
+          title: 'Hypothesis Testing Using R'
+          url: 'https://www.qcif.edu.au/training/course-catalogue/'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2014-07-01'
+          description: ''
+          icon: EdX_newer_logo
+          organization: HarvardX
+          organization_url: https://www.edx.org/
+          title: 'Data Analysis for Genomics'
+          url: 'https://www.edx.org/learn/data-analysis/harvard-university-case-studies-in-functional-genomics'  
+        - certificate_url: 
+          date_end: ''
+          date_start: '2014-01-01'
+          description: ''
+          icon: qcif_logo
+          organization: QCIF
+          organization_url: https://www.qcif.edu.au/training/course-catalogue/
+          title: 'Extended RNA-Seq Analysis'
+          url: 'https://www.qcif.edu.au/training/course-catalogue/'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2011-07-01'
+          description: ''
+          icon: 
+          organization: MARBIGEN
+          organization_url: http://www.marbigen.org/
+          title: 'Genomics in Biodiversity'
+          url: 'http://www.marbigen.org/'
     design:
       columns: '2'
   - block: collection
@@ -171,10 +219,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Plant Pathology
+          tag: Plant Pathology
+        - name: Crop Genomics
+          tag: crops
+        - name: Aquaculture and Marine Genomics
+          tag: marine 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -186,7 +236,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="gallery" >}}
     design:
       columns: '1'
   - block: collection
@@ -235,39 +285,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please reach out to discuss research supervision and collaboration opportunities.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: i.bar@griffith.edu.au
+      phone: +61 7 3735 7292
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: 170 Kessels St
+        city: Nathan
+        region: QLD
+        postcode: '4111'
+        country: Australia
+        country_code: AU
+      directions: Science 2 building (N34), Level 2 Room 2.37
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Thursday 10:00 to 12:00'
+        # - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: "-27.55277076384901"
+        longitude: "153.05282839612474"  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/DrIdoBar'
+        # - icon: skype
+          # icon_pack: fab
+          # name: Skype Me
+          # link: 'skype:echo123?call'
+        # - icon: video
+          # icon_pack: fas
+          # name: Zoom Me
+          # link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -277,7 +327,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
