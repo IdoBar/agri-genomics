@@ -109,8 +109,9 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      #title: 'Accomplish&shy;ments'
+      title: 'Professional Development'
+      subtitle: 'Courses and qualifications'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
