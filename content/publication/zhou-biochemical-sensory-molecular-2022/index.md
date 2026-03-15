@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Biochemical, Sensory, and Molecular Evaluation of Flavour and Consumer Acceptability in Australian Papaya (Carica papaya L.) Varieties
+title: "Biochemical, Sensory, and Molecular Evaluation of Flavour and Consumer Acceptability in Australian Papaya (*Carica papaya* L.) Varieties"
 subtitle: ''
 summary: ''
 authors:
@@ -58,7 +58,7 @@ abstract: Inconsistency in flavour is one of the major challenges to the Austral
   production and were expressed significantly higher in ‘1B’ than in ‘RB1’ or ‘Skybury’.
   These findings will assist in the strategic selective breeding for papaya to better
   match consumer and, hence, market demand.
-publication: '*Multidisciplinary Digital Publishing Institute*'
+publication: '*International Journal of Molecular Sciences*'
 doi: 10.3390/ijms23116313
 links:
 - name: URL

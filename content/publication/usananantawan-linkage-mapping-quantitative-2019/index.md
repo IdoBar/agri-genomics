@@ -38,7 +38,7 @@ abstract: The identification and characterisation of quantitative trait loci (QT
   crop traits and for developing accurate markers for selective breeding strategies.
   In this study, a genotyping-by-sequencing (GBS) approach detected QTL conditioning
   desirable fruit quality traits in papaya.
-publication: ''
+publication: '*BMC Plant Biology*'
 doi: 10.1186/s12870-019-2043-0
 links:
 - name: URL

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Electrochemical Biosensor for the Detection of Botrytis Spp. in Temperate Legume Crops
+title: "Electrochemical Biosensor for the Detection of *Botrytis* Spp. in Temperate Legume Crops"
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,7 @@ tags:
 categories: []
 date: '2020-01-01'
 lastmod: 2024-01-08T10:46:29+10:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -57,7 +57,7 @@ abstract: A greater achievement in the Integrated Disease Management (IDM) to pr
   within a raw total plant nucleic acid extract background. We believe that the translation
   of this technology to the field will enable quantitative assessment of pathogen
   load for future accurate decision support of informed botrytis grey mould management.
-publication: ''
+publication: '*International Journal of Bioengineering and Life Sciences*'
 links:
 - name: URL
   url: https://publications.waset.org/abstracts/111221/electrochemical-biosensor-for-the-detection-of-botrytis-spp-in-temperate-legume-crops

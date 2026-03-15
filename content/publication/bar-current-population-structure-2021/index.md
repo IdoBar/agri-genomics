@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Current Population Structure and Pathogenicity Patterns of Ascochyta rabiei in Australia
+title: "Current Population Structure and Pathogenicity Patterns of *Ascochyta rabiei* in Australia"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Ascochyta"]
 publishDate: '2024-01-08T00:46:23.971658Z'
 publication_types:
 - '2'
@@ -65,7 +65,7 @@ abstract: Ascochyta blight disease, caused by the necrotrophic fungus Ascochyta 
   with continuous monitoring of the genetic structure of the population will provide
   crucial information for the screening of breeding material and integrated disease
   management packages.,
-publication: '*Microbiology Society,*'
+publication: '*Microbial Genomics*'
 doi: 10.1099/mgen.0.000627
 links:
 - name: URL

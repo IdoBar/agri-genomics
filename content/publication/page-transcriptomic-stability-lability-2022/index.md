@@ -18,7 +18,7 @@ tags:
 categories: []
 date: '2022-10-27'
 lastmod: 2024-01-08T10:46:41+10:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -44,7 +44,7 @@ abstract: Crustose coralline algae (CCA) are calcifying red macroalgae that play
   CCA to ocean warming (OW) and ocean acidification (OA) have found magnitude of effect
   to be species-specific. Response to OW and OA could be linked to divergent underlying
   molecular processes across species.
-publication: ''
+publication: '*BMC Genomics*'
 doi: 10.1186/s12864-022-08931-9
 links:
 - name: URL

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: A Transcriptomic Investigation of Digestive Processes in Orange-Spotted Grouper, Epinephelus coioides, before, during, and after Metamorphic Development
+title: A Transcriptomic Investigation of Digestive Processes in Orange-Spotted Grouper, _Epinephelus coioides_, before, during, and after Metamorphic Development
 subtitle: ''
 summary: ''
 authors:
@@ -63,7 +63,7 @@ abstract: The orange-spotted grouper (OG), Epinephelus coioides, is an ecologica
   and form the basis of a new transcriptomic database that will aid further study
   into the digestive development and dietary requirements of orange-spotted grouper
   larvae.
-publication: ''
+publication: '*Gene*'
 doi: 10.1016/j.gene.2018.03.073
 links:
 - name: URL

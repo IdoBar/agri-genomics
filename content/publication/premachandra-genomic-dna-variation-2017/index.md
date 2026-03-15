@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Genomic DNA Variation Confirmed Seriola lalandi Comprises Three Different Populations in the Pacific, but with Recent Divergence
+title: "Genomic DNA Variation Confirmed *Seriola lalandi* Comprises Three Different Populations in the Pacific, but with Recent Divergence"
 subtitle: ''
 summary: ''
 authors:
@@ -54,7 +54,7 @@ abstract: Captive breeding programs and aquaculture production have commenced wo
   within species than species within genera. Accordingly our data support the more
   traditional view that S. lalandi in the Pacific comprises three distinct populations
   rather than the subdivisions into several species.
-publication: ''
+publication: '*Scientific Reports*'
 doi: 10.1038/s41598-017-07419-x
 links:
 - name: URL

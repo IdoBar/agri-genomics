@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Determination of the Key Resistance Gene Analogs Involved in Ascochyta rabiei Recognition in Chickpea
+title: "Determination of the Key Resistance Gene Analogs Involved in *Ascochyta rabiei* Recognition in Chickpea"
 subtitle: ''
 summary: ''
 authors:
@@ -67,7 +67,7 @@ abstract: Chickpea (Cicer arietinum L.) is an important cool season food legume,
   transcribed RGAs function through ADP-binding within the pathogen recognition pathway.
   These represent clear targets for future functional validation and potential for
   selective resistance breeding for introgression into elite cultivars.
-publication: ''
+publication: '*Frontiers in Plant Science*'
 doi: 10.3389/fpls.2019.00644
 links:
 - name: URL

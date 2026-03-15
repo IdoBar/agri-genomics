@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Gonadal Response of Juvenile Protogynous Grouper (Epinephelus fuscoguttatus) to Long-Term Recombinant Follicle-Stimulating Hormone Administration
+title: "Gonadal Response of Juvenile Protogynous Grouper (*Epinephelus fuscoguttatus*) to Long-Term Recombinant Follicle-Stimulating Hormone Administration"
 subtitle: ''
 summary: ''
 authors:
@@ -39,7 +39,7 @@ publication_types:
 abstract: Administration of recombinant grouper FSH to juvenile protogynous grouper
   promoted oocyte development to the cortical alveolar stage, and initiated female
   to ma
-publication: ''
+publication: '*Biology of Reproduction*'
 doi: 10.1093/biolre/ioy228
 links:
 - name: URL

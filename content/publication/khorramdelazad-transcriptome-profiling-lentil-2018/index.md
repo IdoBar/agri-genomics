@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Transcriptome Profiling of Lentil (Lens culinaris) through the First 24 Hours of Ascochyta lentis Infection Reveals Key Defence Response Genes
+title: "Transcriptome Profiling of Lentil (*Lens culinaris*) through the First 24 Hours of *Ascochyta lentis* Infection Reveals Key Defence Response Genes"
 subtitle: ''
 summary: ''
 authors:
@@ -42,7 +42,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Ascochyta"]
 publishDate: '2024-01-08T00:46:36.138572Z'
 publication_types:
 - '2'
@@ -52,7 +52,7 @@ abstract: Ascochyta blight, caused by the fungus Ascochyta lentis, is one of the
   the most effective and environmentally sustainable strategy to control this disease.
   However, little is known about the genes and molecular mechanisms underlying lentil
   resistance against A. lentis.
-publication: ''
+publication: '*BMC Genomics*'
 doi: 10.1186/s12864-018-4488-1
 links:
 - name: URL

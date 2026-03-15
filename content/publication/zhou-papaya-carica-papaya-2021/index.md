@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Papaya (Carica papaya L.) Flavour Profiling
+title: "Papaya (*Carica papaya* L.) Flavour Profiling"
 subtitle: ''
 summary: ''
 authors:
@@ -50,7 +50,7 @@ abstract: A major challenge to the papaya industry is inconsistency in fruit qua
   an overview of the approaches to characterise the flavour profiles of papaya through
   sugar component determination, volatile compound detection, sensory panel testing,
   as well as genomics-based studies to identify the papaya flavour.
-publication: '*Multidisciplinary Digital Publishing Institute*'
+publication: '*Genes*'
 doi: 10.3390/genes12091416
 links:
 - name: URL

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Lens orientalis Contributes Quantitative Trait Loci and Candidate Genes Associated With Ascochyta Blight Resistance in Lentil
+title: "*Lens orientalis* Contributes Quantitative Trait Loci and Candidate Genes Associated With Ascochyta Blight Resistance in Lentil"
 subtitle: ''
 summary: ''
 authors:
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Ascochyta"]
 publishDate: '2024-01-08T00:46:30.671395Z'
 publication_types:
 - '2'
@@ -57,7 +57,7 @@ abstract: Australian lentil production is affected by several major biotic const
   The QTL analysis and the candidate gene information are expected to contribute to
   the development of diagnostic markers and enable marker-assisted resistance selection
   in lentil breeding programmes.
-publication: ''
+publication: '*Frontiers in Plant Science*'
 doi: 10.3389/fpls.2021.703283
 links:
 - name: URL

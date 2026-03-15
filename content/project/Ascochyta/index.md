@@ -30,8 +30,8 @@ url_video: ''
 slides: ""
 ---
 
-This project is part of the GRDC National Chickpea Ascochyta investment (GRI2007-001RTX) aiming to uncover the molecular interactions in crop-pathogen pathosystems, understand the genomic drivers of pathogen adaptation, virulence and/or aggressiveness and monitor _Ascochyta rabiei_ population structures. 
+This project is part of the GRDC National Chickpea Ascochyta investments (GRI2007-001RTX & GRI2407-001RTX) aiming to uncover the molecular interactions in crop-pathogen pathosystems, understand the genomic drivers of pathogen adaptation, virulence and/or aggressiveness and monitor _Ascochyta rabiei_ population structures. 
 
-As part of this project, I developed and implemented the [Ascochyta Dashboard](http://bit.ly/asco-dashboard) – an interactive online dashboard that provides tabular and visual summary of the data collected and generated within the project, to allow research partners and industry to develop data-driven informed disease management strategies
+As part of this project, I developed and implemented the [Ascochyta Dashboard](http://bit.ly/asco-dashboard) – an interactive online dashboard that provides tabular and visual summary of the data collected and generated within the project, to allow research partners and industry to develop data-driven informed disease management strategies.
 
 The findings and outputs of this project are then translated for the development of applied tools for pathogen diagnostics and surveillance to inform sustainable disease management practices.

@@ -2,7 +2,7 @@
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: Assessment of the Origin of White Spot Syndrome Virus DNA Sequences in Farmed
-  Penaeus monodon in Australia
+  *Penaeus monodon* in Australia
 subtitle: ''
 summary: ''
 authors:
@@ -20,7 +20,7 @@ tags:
 categories: []
 date: '2018-09-01'
 lastmod: 2024-01-08T10:46:38+10:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -81,7 +81,7 @@ abstract: "Until 2016, the Australian shrimp industry was considered free of Whi
   \ mostly closely related to one reported from Asia; a plausible physical route of\
   \ entry may have been through the importation of WSSV infected shrimp for retail\
   \ sale."
-publication: ''
+publication: '*Aquaculture*'
 doi: 10.1016/j.aquaculture.2018.05.018
 links:
 - name: URL

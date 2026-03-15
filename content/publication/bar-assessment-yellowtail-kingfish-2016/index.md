@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Assessment of Yellowtail Kingfish (Seriola lalandi) as a Surrogate Host for the Production of Southern Bluefin Tuna (Thunnus maccoyii) Seed via Spermatogonial Germ Cell Transplantation
+title: "Assessment of Yellowtail Kingfish (*Seriola lalandi*) as a Surrogate Host for the Production of Southern Bluefin Tuna (*Thunnus maccoyii*) Seed via Spermatogonial Germ Cell Transplantation"
 subtitle: ''
 summary: ''
 authors:
@@ -60,7 +60,7 @@ abstract: Germ cell transplantation is an innovative technology for the producti
   cells migrated to the genital ridge and had colonised the developing gonad. T.
   maccoyii germ cell-derived DNA or RNA was not detected at later stages, suggesting
   that the donor cells were not maintained in the hosts’ gonads.
-publication: ''
+publication: '*Reproduction, Fertility and Development*'
 doi: 10.1071/RD15136
 links:
 - name: URL

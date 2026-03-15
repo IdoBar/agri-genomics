@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Genome Sequence of the Fungus Nannizziopsis barbatae, an Emerging Reptile Pathogen
+title: "Genome Sequence of the Fungus *Nannizziopsis barbatae*, an Emerging Reptile Pathogen"
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2021-01-07'
 lastmod: 2024-01-08T10:46:44+10:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -39,7 +39,7 @@ publication_types:
 abstract: Nannizziopsis barbatae is an emerging fungal pathogen capable of causing
   contagious dermatomycosis in reptiles. Here, we report a 31.54-Mb draft genome sequence
   of an isolate originating from an infected eastern water dragon in Brisbane, Australia.
-publication: '*American Society for Microbiology*'
+publication: '*Microbiology Resource Announcements*'
 doi: 10.1128/MRA.01213-20
 links:
 - name: URL

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Evidence of Recent Increased Pathogenicity within the Australian Ascochyta rabiei Population
+title: "Evidence of Recent Increased Pathogenicity within the Australian *Ascochyta rabiei* Population"
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Ascochyta"]
 publishDate: '2024-01-08T00:46:45.036901Z'
 publication_types:
 - '2'
@@ -63,7 +63,7 @@ abstract: $<$p$>$Ascochyta Blight (AB), caused by Ascochyta rabiei (syn Phoma ra
   of recognition was correlated with resistance rating. This will inform fungicide
   application timing so that infected crops are sprayed with prophylactic chemistries
   prior to invasion and with systemic chemistries after the pathogen has invaded.$<$/p$>$
-publication: '*Cold Spring Harbor Laboratory*'
+publication: '*bioRxiv*'
 doi: 10.1101/2020.06.28.175653
 links:
 - name: URL

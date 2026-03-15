@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Transcriptome Analysis Reveals Differentially Expressed Genes Associated with Germ Cell and Gonad Development in the Southern Bluefin Tuna (Thunnus maccoyii)
+title: "Transcriptome Analysis Reveals Differentially Expressed Genes Associated with Germ Cell and Gonad Development in the Southern Bluefin Tuna (*Thunnus maccoyii*)"
 subtitle: ''
 summary: ''
 authors:
@@ -52,7 +52,7 @@ abstract: Controlling and managing the breeding of bluefin tuna (Thunnus spp.) i
   species. This study utilized RNA-Seq to identify key genes expressed in the gonads
   of Southern bluefin tuna (Thunnus maccoyii, SBT) and their specific expression
   patterns in male and female gonad cells.
-publication: ''
+publication: '*BMC Genomics*'
 doi: 10.1186/s12864-016-2397-8
 links:
 - name: URL

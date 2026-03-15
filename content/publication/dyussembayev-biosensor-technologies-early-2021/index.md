@@ -20,7 +20,7 @@ tags:
 categories: []
 date: '2021-01-01'
 lastmod: 2024-01-08T10:46:32+10:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -59,7 +59,7 @@ abstract: Plant pathogens are a major reason for reduced crop productivity and m
   be applied for plant pathogen detection and management. In addition, we discuss
   challenges facing biosensors and new capability the technology provides to informing
   disease management strategies.
-publication: '*Frontiers*'
+publication: '*Frontiers in Chemistry*'
 doi: 10.3389/fchem.2021.636245
 links:
 - name: URL
