@@ -44,7 +44,7 @@ abstract: Ascochyta blight disease, caused by the necrotrophic fungus Ascochyta 
   disease. This includes understanding the molecular diversity among isolates and
   the frequency and distribution of the isolates that have adapted to overcome host
   resistance across agroecologically distinct regions. Thanks to continuous monitoring
-  efforts over the past 6,years, a comprehensive collection of A. rabiei isolates
+  efforts over the past 6 years, a comprehensive collection of A. rabiei isolates
   was collated from the major Australian chickpea production regions. To determine
   the molecular structure of the entire population, representative isolates from each
   collection year and growing region have been genetically characterized using a DArTseq
@@ -64,7 +64,7 @@ abstract: Ascochyta blight disease, caused by the necrotrophic fungus Ascochyta 
   tool for the Australian A. rabiei population. Application of such a tool, along
   with continuous monitoring of the genetic structure of the population will provide
   crucial information for the screening of breeding material and integrated disease
-  management packages.,
+  management packages.
 publication: '*Microbial Genomics*'
 doi: 10.1099/mgen.0.000627
 links:

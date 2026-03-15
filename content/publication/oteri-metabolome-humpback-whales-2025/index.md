@@ -32,13 +32,13 @@ doi: 10.1016/j.cbd.2025.101670
 abstract: Southern hemisphere humpback whales are capital breeders, relying on energy
   reserves accumulated through summer feeding in the Southern Ocean to fuel reproduction
   and migration. Understanding the fasting physiology of these populations, which
-  lose up to 50,% of their post-summer feeding body mass during the seasonal migration,
+  lose up to 50% of their post-summer feeding body mass during the seasonal migration,
   is of elevated importance, particularly in the context of a rapidly changing Antarctic
   sea-ice ecosystem. Additionally, fluctuations in lipid reserves are known to mobilise
   lipophilic contaminants, potentially rendering seasonal fasting a time of elevated
   toxicological risk. This study analysed blubber biopsies from humpback whales migrating
   along the east coast of Australia. Biopsies were collected at two timepoints on
-  the migration, corresponding to ~ 3 and 6,months fasted, respectively. Nuclear Magnetic
+  the migration, corresponding to ~ 3 and 6 months fasted, respectively. Nuclear Magnetic
   Resonance spectroscopy identified 32 polar metabolites in blubber, mainly involved
   in fatty acid and amino acid metabolism. Eleven of these metabolites showed significant
   differences between the two fasting stages, indicating changes in fatty acid oxidation,

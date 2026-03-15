@@ -27,7 +27,7 @@ publication_types:
 - article-journal
 publication: '*Plant Molecular Biology*'
 doi: 10.1007/s11103-024-01480-7
-abstract: Abstract             Consumer trends towards nutrient-rich foods are contributing
+abstract: Consumer trends towards nutrient-rich foods are contributing
   to global increasing demand for tropical fruit. However, commercial cultivars in
   the breeding pipeline that are tailored to meet market demand are at risk of possessing
   reduced fruit flavour qualities. This stems from recurrent prioritised selection

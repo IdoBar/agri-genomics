@@ -29,7 +29,7 @@ publication_types:
 publication: '*International Journal of Molecular Sciences*'
 doi: 10.3390/ijms25053046
 abstract: Commercial papaya varieties grown in Australia vary greatly in taste and
-  aroma. Previous profiling has identified undesirable `off tastes' in existing varieties,
+  aroma. Previous profiling has identified undesirable 'off tastes' in existing varieties,
   discouraging a portion of the population from consuming papayas. Our focus on enhancing
   preferred flavours led to an exploration of the genetic mechanisms and biosynthesis
   pathways that underlie these desired taste profiles. To identify genes associated

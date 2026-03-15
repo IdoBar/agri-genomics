@@ -37,7 +37,7 @@ abstract: Botrytis gray mold (BGM) caused by Botrytis cinerea or B. fabae is a d
   nanoparticle-based PCR-free assays, comprising inexpensive, portable screen-printed
   carbon electrodes (SPCEs) and species-specific biotinylated capture probes, were
   developed to detect, discriminate, and quantify the causal organisms. Initially,
-  probe specificities and sensitivities were determined (100 fg/$μ$L $∼$2 genome copies/$μ$L)
+  probe specificities and sensitivities were determined (100 fg/μL ∼2 genome copies/μL)
   in pure fungal backgrounds using multiplexed quantitative PCR, detecting as few
   as 100 spores on artificially infected legume leaves. Subsequently, electrocatalytic
   (EC) assays were developed using functionalized magnetic nanoparticles and assessed

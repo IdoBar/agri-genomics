@@ -39,10 +39,10 @@ abstract: 'Specific flavour traits in papaya significantly influence consumer ac
   evaluated flavour acceptance. Variance decomposition analysis revealed that aroma
   characteristics and volatile organic compounds accounted for most of the variance
   in consumer liking (31% and 63%, respectively). Ensemble machine learning determined
-  that lipid-derived compounds (e.g. $γ$-octalactone) and terpenoids (e.g. linalool
+  that lipid-derived compounds (e.g. γ-octalactone) and terpenoids (e.g. linalool
   oxide) influenced the sensory attributes and fruit liking. Gradient boosting regression
   predicted consumer acceptance using three key metabolites: sulcatone (81%, variable
-  importance), Brix (10%), and $β$-ionone (9%). These findings provide a novel approach
+  importance), Brix (10%), and β-ionone (9%). These findings provide a novel approach
   to quantify fruit flavour in papaya, facilitating the development of new cultivars.'
 tags:
 - Consumer acceptance

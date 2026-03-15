@@ -46,15 +46,15 @@ abstract: The orange-spotted grouper (OG), Epinephelus coioides, is an ecologica
   stages including the period coinciding with metamorphic development. The aim of
   the present study was to characterise the molecular ontogenesis of genes that influence
   appetite, feeding, and digestion in OG larvae head and body tissue at 12, 18, and
-  50,days post hatch (dph), which coincides with the beginning and end of metamorphic
+  50 days post hatch (dph), which coincides with the beginning and end of metamorphic
   development. The sequences of many transcripts involved in the regulation of appetite,
-  feeding and digestive processes were detected from 12,dph in OG larvae, including
+  feeding and digestive processes were detected from 12 dph in OG larvae, including
   those that were differentially expressed in body tissue in fish at different stages
   of development such as cholecystokinin, peptide Y, and meprin A. Of the transcripts
   encoding digestive enzymes, only the expression level of bile salt-activated lipase
   decreased as development progressed. In contrast, a dramatic increase in expression
   for other body-expressed transcripts encoding digestive enzymes and a proton pump
-  subunit was observed at 50,dph, which is indicative of an increase in digestive
+  subunit was observed at 50 dph, which is indicative of an increase in digestive
   capacity. In addition, we have provided evidence suggesting that various trypsinogen
   isoforms are present, and have differing expression patterns throughout larval development
   in whole body tissue. We also report on the presence of a prey-specific transcript

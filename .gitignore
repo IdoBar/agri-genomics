@@ -2,6 +2,7 @@
 .idea/
 
 # Hugo
+_vendor/
 resources/
 public/
 jsconfig.json

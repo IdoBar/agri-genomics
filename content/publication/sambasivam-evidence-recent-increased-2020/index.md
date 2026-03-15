@@ -36,7 +36,7 @@ projects: ["Ascochyta"]
 publishDate: '2024-01-08T00:46:45.036901Z'
 publication_types:
 - '2'
-abstract: $<$p$>$Ascochyta Blight (AB), caused by Ascochyta rabiei (syn Phoma rabiei),
+abstract: Ascochyta Blight (AB), caused by Ascochyta rabiei (syn Phoma rabiei),
   is the major endemic foliar fungal disease affecting the Australian chickpea industry,
   resulting with potential crop loss and management costs. This study was conducted
   to better understand the risk posed by the Australian A. rabiei population to current
@@ -62,7 +62,7 @@ abstract: $<$p$>$Ascochyta Blight (AB), caused by Ascochyta rabiei (syn Phoma ra
   less resistant and fastest on the susceptible check host, indicating that speed
   of recognition was correlated with resistance rating. This will inform fungicide
   application timing so that infected crops are sprayed with prophylactic chemistries
-  prior to invasion and with systemic chemistries after the pathogen has invaded.$<$/p$>$
+  prior to invasion and with systemic chemistries after the pathogen has invaded.
 publication: '*bioRxiv*'
 doi: 10.1101/2020.06.28.175653
 links:
