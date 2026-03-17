@@ -223,9 +223,9 @@ sections:
         - name: Plant Pathology
           tag: Plant Pathology
         - name: Crop Genomics
-          tag: crops
+          tag: Crop Genomics
         - name: Aquaculture and Marine Genomics
-          tag: marine 
+          tag: marine
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

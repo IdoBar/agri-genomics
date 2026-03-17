@@ -3,7 +3,7 @@ title: Chickpea Ascochyta Blight
 summary: A GRDC project aiming to understand the genomic drivers of pathogen adaptation, virulence and/or aggressiveness and monitor pathogen population structures of Ascochyta rabiei in Chickpea.
 tags:
   - Plant Pathology
-date: '2019-04-27T00:00:00Z'
+date: '2026-03-17'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

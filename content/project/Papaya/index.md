@@ -1,9 +1,9 @@
 ---
 title: Papaya Flavour Genetics
-summary: A Hort Innovation Frontiers Fund project aiming to characterise flavour profiles in Australian papaya varieties, the metabolites and underlying molecular pathways contributing to the falvour perception and how they affect consumer liking.
+summary: A Hort Innovation Frontiers Fund project aiming to characterise flavour profiles in Australian papaya varieties, the metabolites and underlying molecular pathways contributing to the flavour perception and how they affect consumer liking.
 tags:
   - Crop Genomics
-date: '2026-03-14T00:00:00Z'
+date: '2026-03-16'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
